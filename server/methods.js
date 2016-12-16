@@ -29,7 +29,7 @@ Meteor.startup(() => {
             }, function(err, data, response) {
 
                 if (err) {
-                    future.return(error);
+                    future.return(err);
                 } else {
                     future.return(data);
                 }
