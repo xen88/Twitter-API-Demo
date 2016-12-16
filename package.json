@@ -1,0 +1,19 @@
+{
+  "name": "infinitylab",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "bluebird": "^3.4.6",
+    "meteor-node-stubs": "~0.2.0",
+    "sendgrid": "^4.3.0",
+    "twit": "^2.2.5"
+  },
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
