@@ -1,8 +1,8 @@
 {
-  "name": "infinitylab",
+  "name": "twitter api demo",
   "private": true,
   "scripts": {
-    "start": "meteor run"
+    "start": "meteor --settings settings.json"
   },
   "dependencies": {
     "bcrypt": "^0.8.7",
@@ -15,5 +15,5 @@
   "main": "index.js",
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "twitter api demo"
 }
